@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/fahd/AndroidStudioProjects/Services1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/fahd/AndroidStudioProjects/Services1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_0ce177cebef555b46283bfc541729e934d6cbdd6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fahd/AndroidStudioProjects/Services1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/fahd/AndroidStudioProjects/Services1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_78b6d71e6b38c32e11e91792e2ec65e84e62fbfc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fahd/AndroidStudioProjects/Services1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/fahd/AndroidStudioProjects/Services1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_a636f9cf3a05430264e2f898d40b3024924d8a09/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fahd/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/fahd/AndroidStudioProjects/Services1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_53ccf3c2c6b04b2f198441a96adfa3bc5793af17/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fahd/AndroidStudioProjects/Services1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/fahd/AndroidStudioProjects/Services1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_9aae3072bf06f40407f76f8f24751c932e44254f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fahd/AndroidStudioProjects/Services1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/fahd/AndroidStudioProjects/Services1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_f45285f0d8ffb23c9150ed343d995274d5ab3eb5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fahd/AndroidStudioProjects/Services1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9aafd501c4986231e56cb544af06647dbdbd35eb">
+        <dex dex="/Users/fahd/AndroidStudioProjects/Services1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2cf61ccfc0f9a29953959b8fe52be5a952e2f734/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fahd/AndroidStudioProjects/Services1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="088e8d9b60fe0f8597d4c02ede9ba24bce14cbb3">
+        <dex dex="/Users/fahd/AndroidStudioProjects/Services1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_08026564c4541178a00e1bb1a6d1f6a56d4418e8/classes.dex" />
+    </item>
+
+</items>
