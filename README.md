@@ -11,7 +11,7 @@ This is an Android example using the services class - Started Service
 * etc
 
 
-<b>License<b>
+<b>
 
 MIT Licensed
 
